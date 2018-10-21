@@ -9,7 +9,7 @@ setValidity("MEA", function(object) {
   if (is.null(msg)) TRUE
   else msg
 })         
-setMethod("initialize",signature = "MEA", definition = function(.Object, path){
+setMethod("initialize", signature = "MEA", definition = function(.Object, path){
   require(R.matlab)
   .Object@path <- path
   validObject(.Object)
