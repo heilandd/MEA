@@ -46,7 +46,7 @@ saveRDS(object, "object_233.R")
 #Layout file defines your MEA layout
 layout=read.csv("Layout.csv", sep=";")
 
-#Analysis and plotting of the Rasterolot or a scatterplot
+#Analysis and plotting of the raster- or a scatterplot
 Plot_Events_Scatter(object,RasterP=T,layout)
 
 ```
