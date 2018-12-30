@@ -1,4 +1,4 @@
-# R_MEA: An R-Package for Comprehensive Analysis of Multi-Electrode Array's 
+# R_MEA: An R-Tool for Comprehensive Analysis of Multi-Electrode Array's 
  
 
 The pipeline was designed to integrate following aspects:
