@@ -54,5 +54,5 @@ Plot_Events_Scatter(object,RasterP=T,layout)
 
 ### Authors
 
-D. H. Heiland & K. Daka, Translational Research Group, Medcal-Center Freiburg, University of Freiburg
+D. H. Heiland & K. Joseph, Translational Research Group, Medcal-Center Freiburg, University of Freiburg
 
